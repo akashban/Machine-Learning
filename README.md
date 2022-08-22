@@ -7,5 +7,5 @@ Why do petals (as compared to sepals) better classify the Iris flower dataset? [
 
 ## Ensemble of ML techniques to solve the Titanic Kaggle Project 
 
-[Jupyter Notebook](https://github.com/akashban/Machine-Learning/blob/main/ensemble_practise_2.ipynb)
+Comparing accuracy of various classifiers: [Jupyter Notebook](https://github.com/akashban/Machine-Learning/blob/main/ensemble_practise_2.ipynb)
 
